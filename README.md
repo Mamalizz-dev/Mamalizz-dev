@@ -1,4 +1,4 @@
-![KhodeMamalizz](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20%20there&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&rotate=-2&desc=I'm%20KhodeMamalizz&fontAlignY=41&descAlignY=64)
+![KhodeMamalizz](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20%20there&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&rotate=0&desc=I'm%20KhodeMamalizz&fontAlignY=41&descAlignY=64)
 
 
 # 💫 About Me:
