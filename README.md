@@ -1,10 +1,10 @@
 ![KhodeMamalizz](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hey%20%20there&section=header&reversal=false&textBg=false&fontAlign=37&animation=fadeIn&rotate=0&desc=I'm%20Mamalizz-dev&fontAlignY=41&descAlignY=64&descAlign=64&fontSize=50&descSize=25)
 
 
-# 💫 About Me:
+<h3 align="left">💫 About Me :</h3>
 🔭 frontend developer (Vue js , Nuxt js)<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning backend (node js)<br>💬 Ask me about javascript and stuff<br>⚡ Fun fact i know how to center  a div LOL
 
-# 💻 Tech stack:
+<h3 align="left">💻 Tech Stack :</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
 
 ###
 
-# 💻 Tech i'm familiar with:
+<h3 align="left">💻 Techs I'm familiar with :</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
     <img width="12" />
@@ -59,6 +59,17 @@
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
     <img width="12" />
 </div>
+
+<h3 align="left">My Socials :</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohammad-hossein-ghorbani-5535242b5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/mamalizz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeMamalizz&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
