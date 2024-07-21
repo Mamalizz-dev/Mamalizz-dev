@@ -1,7 +1,7 @@
 ![KhodeMamalizz](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hey%20%20there&section=header&reversal=false&textBg=false&fontAlign=37&animation=fadeIn&rotate=0&desc=I'm%20Mamalizz-dev&fontAlignY=41&descAlignY=64&descAlign=64&fontSize=50&descSize=25)
 
 
-<h3 align="left">💫 About Me :</h3>
+<h2 align="left">💫 About Me :</h2>
 🔭 frontend developer (Vue js , Nuxt js)<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning backend (node js)<br>💬 Ask me about javascript and stuff<br>⚡ Fun fact i know how to center  a div LOL
 
 <h3 align="left">💻 Tech Stack :</h3>
