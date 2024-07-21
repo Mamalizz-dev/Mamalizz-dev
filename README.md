@@ -2,7 +2,7 @@
 
 
 <h2 align="left">💫 About Me :</h2>
-🔭 frontend developer (Vue js , Nuxt js)<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning backend (node js)<br>💬 Ask me about javascript and stuff<br>⚡ Fun fact i know how to center  a div LOL
+🔭 frontend developer ( Vue js , Nuxt js )<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently improving my frontend skills<br>💬 Ask me about javascript world<br>⚡ Fun fact i know how to center  a div LOL
 
 <h2 align="left">💻 Tech Stack :</h2>
 <div align="left">
