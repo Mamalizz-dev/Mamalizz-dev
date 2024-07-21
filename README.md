@@ -4,7 +4,7 @@
 <h2 align="left">💫 About Me :</h2>
 🔭 frontend developer (Vue js , Nuxt js)<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning backend (node js)<br>💬 Ask me about javascript and stuff<br>⚡ Fun fact i know how to center  a div LOL
 
-<h3 align="left">💻 Tech Stack :</h3>
+<h2 align="left">💻 Tech Stack :</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">💻 Techs I'm familiar with :</h3>
+<h2 align="left">💻 Techs I'm familiar with :</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
     <img width="12" />
@@ -60,7 +60,7 @@
     <img width="12" />
 </div>
 
-<h3 align="left">My Socials :</h3>
+<h2 align="left">My Socials :</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammad-hossein-ghorbani-5535242b5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -70,8 +70,8 @@
   </a>
 </div>
 
+<h2 align="left">📊 GitHub Stats :</h2>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhodeMamalizz&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
