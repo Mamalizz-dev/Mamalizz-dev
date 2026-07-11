@@ -67,6 +67,7 @@
       alt="linkedin logo"  
     />
   </a>
+  <img width="12" />
   <a href="https://discord.com/users/mamalizz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40"
       alt="discord logo"
